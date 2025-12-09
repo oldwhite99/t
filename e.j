@@ -1,6 +1,6 @@
 {
-"name": "LaoBai 老白- 0% fee",
-"description": "Welcome to LaoBai 老白 ADA pool! My Youtube channel: https://www.youtube.com/@LaoBaiPlayCoin",
+"name": "停機/無運作(shutdown)",
+"description": "",
 "ticker": "LBAI",
-"homepage": "https://laobai.io"
+"homepage": ""
 }
